@@ -1,1 +1,15 @@
-Hoje eu preciso tomar banho
+{
+  "todos": [
+    {
+      "date": "2023-07-23T01:42:25.129Z",
+      "content": "Primeiro TODO",
+      "done": false
+    },
+    {
+      "date": "2023-07-23T01:42:25.131Z",
+      "content": "Segundo TODO",
+      "done": false
+    }
+  ],
+  "dogs": []
+}
